@@ -54,3 +54,8 @@ form {
   border-left: 2px solid aqua;
   margin-bottom: 30px;
 }
+
+.poem em {
+  color: aqua;
+  padding-top: 10px;
+}
